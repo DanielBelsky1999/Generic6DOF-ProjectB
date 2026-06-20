@@ -32,6 +32,9 @@ It is aimed at students, engineers, and researchers who want to test their own a
 - [pugixml](https://pugixml.org/) — XML config parsing (included in the project files already)
 - Windows SDK (Winsock2) — required for Tacview live telemetry (So this project is Windows only, for now)
 
+### main
+The main function lies in the main.cpp file in `Sim/` directory.
+
 ### Configuration
 
 All runtime options are read from `Configs/config.xml`. Configurable items include:
