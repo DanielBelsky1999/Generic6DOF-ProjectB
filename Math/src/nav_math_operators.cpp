@@ -1,5 +1,6 @@
 #include "nav_math_operators.h"
 
+#include <math.h>
 
 Vector3D ImaginaryFromQuaternion(const Quaternion& q)
 {

@@ -1,5 +1,4 @@
 #pragma once
-#include <math.h>
 
 // forward decl
 class Vector3D;

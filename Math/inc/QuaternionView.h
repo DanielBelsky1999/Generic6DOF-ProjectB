@@ -1,7 +1,5 @@
 #pragma once
 
-#include <math.h>
-
 class Quaternion;
 
 class QuaternionView {

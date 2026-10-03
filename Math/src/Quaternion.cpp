@@ -1,5 +1,6 @@
 #include "Quaternion.h"
 #include "QuaternionView.h"
+#include <math.h>
 
 Quaternion::Quaternion() {
 	q[0] = 1;

@@ -1,5 +1,6 @@
 #include "QuaternionView.h"
 #include "Quaternion.h"
+#include <math.h>
 
 QuaternionView::QuaternionView() 
 	: q(nullptr)

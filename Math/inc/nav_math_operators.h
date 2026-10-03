@@ -1,6 +1,5 @@
 #pragma once
 
-#include <math.h>
 #include "Matrix33.h"
 #include "Vector3D.h"
 #include "Quaternion.h"

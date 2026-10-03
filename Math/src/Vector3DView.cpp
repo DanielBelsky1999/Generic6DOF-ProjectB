@@ -1,5 +1,6 @@
 #include "Vector3DView.h"
 #include "Vector3D.h"
+#include <math.h>
 
 
 Vector3DView::Vector3DView()

@@ -1,5 +1,6 @@
 #include "Vector3D.h"
 #include "Vector3DView.h"
+#include <math.h>
 
 Vector3D::Vector3D() {
 	zeroALL();

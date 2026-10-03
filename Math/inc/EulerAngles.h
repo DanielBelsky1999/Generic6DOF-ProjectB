@@ -1,6 +1,6 @@
 #pragma once
 
-// forward delc
+// forward decl.
 class EulerAnglesView;
 
 class EulerAngles {
